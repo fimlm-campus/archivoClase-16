@@ -1,4 +1,4 @@
-# EjercicioClase13Junio_Api_Fecth_JS
+# EjercicioClase14Junio_Date
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +10,7 @@
 		<h3>Ejercicio para clase Campus</h3>
 	</div>
 	<div align="center">
-		<p>Repositorio con el ejercicio a desarrollar en clase el día 12 de Julio de 2022</p>
+		<p>Repositorio con el ejercicio a desarrollar en clase el día 15 de Julio de 2022</p>
             <p>El objeto  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Date" target="_blank">Date</a> contiene un Number que representa los milisegundos transcurridos desde el 1 de Enero de 1970 UTC.</p>
 	</div>
 	<div align="center">
